@@ -1,1 +1,8 @@
 Datasets
+.venv/
+data
+Neural Language Model/*.pt
+Neural Language Model/models
+Classification/Nepali Sentimental Classification/Bert/*.pt
+
+
